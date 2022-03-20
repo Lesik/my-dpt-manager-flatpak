@@ -1,6 +1,6 @@
 [Flatpak Repo]
 Title=Lesik
-Url=http://repo.lesik.dönerbu.de
+Url=https://repo.lesik.dönerbu.de
 Homepage=https://lesik.gitlab.io/
 Comment=Flatpak repository
 Description=Flatpak repository
